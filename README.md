@@ -101,4 +101,56 @@ tic-tac-toe/
 
 ### Installation
 
-1. *
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/tic-tac-toe.git
+cd tic-tac-toe
+```
+
+2. **Open the game**
+```bash
+# Simply open index.html in your browser
+# Or use a local server:
+python -m http.server 8000
+# Then visit: http://localhost:8000
+```
+
+3. **Play!**
+Open `index.html` in any web browser and start playing!
+
+## 🎓 Learning Outcomes
+
+This project demonstrates proficiency in:
+
+### JavaScript Fundamentals
+- ✅ Variables and data types
+- ✅ Functions and scope
+- ✅ Arrays and objects
+- ✅ Event listeners
+- ✅ DOM manipulation
+- ✅ Conditional statements
+- ✅ ES6+ syntax
+
+### Web Development
+- ✅ Semantic HTML5
+- ✅ Modern CSS (Flexbox, Grid)
+- ✅ CSS Animations
+- ✅ Responsive design
+- ✅ Cross-browser compatibility
+
+### Software Engineering
+- ✅ Clean, readable code
+- ✅ Code organization
+- ✅ Problem-solving
+- ✅ User experience design
+- ✅ Version control with Git
+
+## 🎯 Key Features Explained
+
+### 1. Win Detection Algorithm
+The game checks 8 possible winning combinations:
+- 3 horizontal rows
+- 3 vertical columns
+- 2 diagonals
+
+Uses array pattern matching for efficient detection.
