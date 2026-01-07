@@ -22,10 +22,6 @@ A modern implementation of the timeless Tic Tac Toe game featuring:
 
 [Play the game here](https://sujal006.github.io/tic-tac-toe/)
 
-## 📸 Screenshots
-
-![Game Screenshot](Screenshot 2026-01-07 at 10.47.37 AM.png)
-
 ## 🎮 How to Play
 
 1. Player X starts the game
