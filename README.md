@@ -24,7 +24,7 @@ A modern implementation of the timeless Tic Tac Toe game featuring:
 
 ## 📸 Screenshots
 
-![Game Screenshot](screenshots/game-screenshot.png)
+![Game Screenshot](Screenshot 2026-01-07 at 10.47.37 AM.png)
 
 ## 🎮 How to Play
 
@@ -103,7 +103,7 @@ tic-tac-toe/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/SUJAL006/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
