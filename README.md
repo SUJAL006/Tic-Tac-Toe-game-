@@ -20,7 +20,7 @@ A modern implementation of the timeless Tic Tac Toe game featuring:
 
 ## 🚀 Live Demo
 
-[Play the game here](https://yourusername.github.io/tic-tac-toe/)
+[Play the game here](https://sujal006.github.io/tic-tac-toe/)
 
 ## 📸 Screenshots
 
